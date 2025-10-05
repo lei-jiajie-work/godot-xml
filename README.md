@@ -12,17 +12,17 @@ The format the dictionary is in, will be something like:
 ```
 {
   'title1' : {
-    'attributes' : {}'
-    'text' : 'Lorem Ipsum''
+    'attributes' : {},
+    'text' : 'Lorem Ipsum',
     'children' : {}
-  }'
+  },
   'page1' : {
     'attributes' : {
-      'background-color' : '#010409''
-      'text-color' : '#6495ed''
+      'background-color' : '#010409',
+      'text-color' : '#6495ed',
       'children' : {
         'paragraph1' : {
-          'attributes' : {}'
+          'attributes' : {}',
           'text' : '"He who has enough courage and patience to stare into the darkness for his entire life, shall be the first to see the flash of light." — "Khan", Metro 2033, Dmitry Glukhovsky',
           'children' : {}
         }
